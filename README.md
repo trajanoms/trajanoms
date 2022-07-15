@@ -49,8 +49,8 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 
 <h2 align="center"> My GitHub Stats </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=trajanoms&count_private=true&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=trajanoms&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trajanoms&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trajanoms&theme=dark" />
 </a>
