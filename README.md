@@ -2,7 +2,7 @@
 Front-end dev with focus on web development</h1>
 
 <div align="center">
-<img width="221px" height = "221px" src="https://avatars.githubusercontent.com/u/106614188?s=400&u=22eb3436d9acfedbe3f1e580b43bfcb8d0d3d7dd&v=4" alt="cover" />
+<img width="221px" height = "221px" src="https://avatars.githubusercontent.com/u/106614188?v=4" alt="cover" />
 </div>
 
 <p align='center'>
@@ -40,17 +40,7 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'>
-<img width ='40px' align='center' src='https://camo.githubusercontent.com/6df31a460cb0c38f960e92812c8b6f8bce4c7f13170fb4782f0b31ab8e792ac2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6963726f736f66745f617a7572652f6d6963726f736f66745f617a7572652d69636f6e2e737667'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
-<img width ='40px' align='center' src ='https://camo.githubusercontent.com/1d997cdd55f59eb171ba044aa9fb6f77eef653c6a23fc51a809425fd03a12cd4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f736b657463686170702f736b657463686170702d69636f6e2e737667'>
-<img width ='40px' align='center' src ='https://camo.githubusercontent.com/41ab02bf30be980cab9460dd7b66768cf39a51159a231712a7edb035e0410df0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f696e766973696f6e6170702f696e766973696f6e6170702d69636f6e2e737667'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'>
 
@@ -59,8 +49,8 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 
 <h2 align="center"> My GitHub Stats </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=annelesinhovski&count_private=true&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=trajanoms&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annelesinhovski&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trajanoms&theme=radical" />
 </a>
