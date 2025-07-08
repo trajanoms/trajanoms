@@ -27,7 +27,7 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 
 - 🤝 I’m looking to collaborate on projects to make the web more accessible
 
-- 🙋‍♀️ Talk to me about Flutter, Design and Accessibility. Also about football, tv shows, food and wine - hehe
+- 🙋‍♀️ Talk to me about Flutter, React, Design and Accessibility. Also about football, tv shows, food and wine - hehe
 
 
 
