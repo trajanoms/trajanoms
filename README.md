@@ -1,5 +1,5 @@
 <h1 align='center'> Hello, I'm Jonathas Trajano <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
-Software Engineer with focus on mobile development</h1>
+Software Engineer with focus on mobile and web development</h1>
 
 <div align="center">
 <img width="221px" height = "221px" src="https://avatars.githubusercontent.com/u/106614188?v=4" alt="cover" />
